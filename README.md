@@ -1,17 +1,21 @@
 <h1 align="center">Olá 👋, me chamo Pedro</h1>
 <h3 align="center">A vontade de obter conhecimento desperta a minha curiosidade e me dá motivação a buscar aquilo que tenho interesse</h3>
 
-- Estou correndo atrás de uma oportunidade que surgiu no começo do ano de 2024: Atualmente em Intermediário [Programa governamental "Hackers do bem"](https://conteudo.hackersdobem.org.br/)
+🏃
+- Estou correndo atrás de uma oportunidade que surgiu no começo do ano de 2024:
+- Atualmente em nível Intermediário
+- [Programa governamental "Hackers do bem"](https://conteudo.hackersdobem.org.br/)
 
+🖥️
 - Em conjunto com o programa, me encontro estudando e revisando os seguintes conteúdos de programação **C, C++, Assembly**
-
+- Além de procurar entender estruturas de dados como: **Listas, Filas, Pilhas, Árvores e Grafos**
+- Busco entender e aprender estes tópicos relacioandos a cibersegurança **Redes de computadores, Sistemas operacionais**
+- 
+🐱‍💻
 - Meu progresso em outras plataformas de conteúdos relacionados a cibersegurança [https://tryhackme.com/p/theOzymandias](https://tryhackme.com/p/theOzymandias)
 
+📧
 - Para entrar em contato, envie um e-mail! [pedrohwlemos@hotmail.com.br](pedrohwlemos@hotmail.com.br)
-
-- Além de procurar entender estruturas de dados como: **Listas, Filas, Pilhas, Árvores e Grafos**
-
-- Busco entender e aprender estes tópicos relacioandos a cibersegurança **Redes de computadores, Sistemas operacionais**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
